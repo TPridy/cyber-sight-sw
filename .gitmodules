@@ -7,3 +7,9 @@
 [submodule "yocto/layers/meta-openembedded"]
 	path = yocto/layers/meta-openembedded
 	url = git@github.com:openembedded/meta-openembedded.git
+[submodule "yocto/layers/openembedded-core"]
+	path = yocto/layers/openembedded-core
+	url = git@github.com:openembedded/openembedded-core.git
+[submodule "yocto/layers/meta-st-openstlinux"]
+	path = yocto/layers/meta-st-openstlinux
+	url = git@github.com:STMicroelectronics/meta-st-openstlinux.git
